@@ -1,0 +1,13 @@
+/*    /index.html   200
+/assets/*    /assets/:splat    200
+/*.css      /:splat.css       200
+/*.js       /:splat.js        200
+/*.jpg      /:splat.jpg       200
+/*.png      /:splat.png       200
+/*.svg      /:splat.svg       200
+
+# Remove .html extensions
+/*.html     /:splat          301
+
+# Handle 404s by redirecting to index.html (for SPA routing)
+/*          /index.html       200
