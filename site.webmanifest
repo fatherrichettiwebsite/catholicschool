@@ -1,0 +1,19 @@
+{
+  "name": "Fr. Joseph Richetti Catholic School",
+  "short_name": "Fr. Joseph School",
+  "icons": [
+    {
+      "src": "assets/images/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/logo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0066cc",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

@@ -10,12 +10,7 @@
     <meta name="google-site-verification" content="2u_jzUwRP56jdffKqkKIcReQjMlgg0vLsAfLUXK90Ac" />
     
     <!-- Favicon using existing logo -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="assets/images/favicon-16x16.png" sizes="16x16">
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo-192x192.png">
-    <meta name="theme-color" content="#0066cc">
-    <link rel="manifest" href="site.webmanifest">
+    <link rel="icon" type="image/jpg" href="assets/images/fr joseph logo_page-0001.jpg">
     <link rel="shortcut icon" href="assets/images/fr joseph logo_page-0001.jpg">
     <link rel="apple-touch-icon" href="assets/images/fr joseph logo_page-0001.jpg">
     <meta name="theme-color" content="#0066cc">
@@ -112,12 +107,7 @@
     
     <!-- Favicon and Apple Touch Icons -->
     <!-- Favicon using existing logo -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="assets/images/favicon-16x16.png" sizes="16x16">
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo-192x192.png">
-    <meta name="theme-color" content="#0066cc">
-    <link rel="manifest" href="site.webmanifest">
+    <link rel="icon" type="image/jpg" href="assets/images/fr joseph logo_page-0001.jpg">
     <link rel="shortcut icon" href="assets/images/fr joseph logo_page-0001.jpg">
     <link rel="apple-touch-icon" href="assets/images/fr joseph logo_page-0001.jpg">
     <meta name="theme-color" content="#0066cc">
@@ -2788,6 +2778,7 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="footer-section">
             <h4>About Our School</h4>
             <p>Fr. Joseph Richetti Catholic School provides quality education grounded in faith, excellence, and community values.</p>
+            <p><strong>Est. 2005</strong></p>
           </div>
         </div>
         
