@@ -75,7 +75,6 @@ def main():
         "current students.png",
         "homescience.png",
         "skating.png",
-        "smallclasssize.png"
     ]
     
     # JPEG files to optimize
@@ -85,7 +84,8 @@ def main():
         "caro3.jpeg",
         "caro4.jpeg",
         "caro5.jpeg",
-        "hero11.jpeg"
+        "hero11.jpeg",
+        "smallclasssize.jpg"
     ]
     
     print("Starting image optimization...")

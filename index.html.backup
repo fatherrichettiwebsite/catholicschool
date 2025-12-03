@@ -1708,7 +1708,7 @@ https://templatemo.com/tm-569-edu-meeting
               <div class="meeting-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                 <div class="thumb">
                   <div class="price"><span>Focused</span></div>
-                  <img src="assets/images/smallclasssize.png" alt="Classes">
+                  <img src="assets/images/smallclasssize.jpg" alt="Classes">
                 </div>
                 <div class="down-content">
                   <h4>Small Class Sizes</h4>
@@ -1721,7 +1721,7 @@ https://templatemo.com/tm-569-edu-meeting
               <div class="meeting-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">
                 <div class="thumb">
                   <div class="price"><span>Proven</span></div>
-                  <img src="assets/images/secondary placement.png" alt="Success">
+                  <img src="assets/images/secondary%20placement.png?v=2" alt="Success">
                 </div>
                 <div class="down-content">
                   <h4>Secondary Placement</h4>
@@ -2507,7 +2507,7 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="col-lg-4 col-md-6">
             <div class="event-card" data-aos="fade-up" data-aos-duration="800" data-aos-delay="0">
               <div class="event-image">
-                <img src="assets/images/annualscience.png" alt="Science Fair 2024">
+                <img src="assets/images/annualscience.png?v=2" alt="Science Fair 2024">
                 <div class="event-date">Mar 2024</div>
               </div>
               <div class="event-content">
@@ -2697,13 +2697,6 @@ https://templatemo.com/tm-569-edu-meeting
               <a href="#" class="download-btn"><i class="fa fa-download"></i> Download</a>
             </div>
             
-            <div class="download-item-card">
-              <div class="download-content">
-                <h4>Fee Schedule 2025</h4>
-                <p>Comprehensive fee structure and payment terms - PDF 180KB</p>
-              </div>
-              <a href="#" class="download-btn"><i class="fa fa-download"></i> Download</a>
-            </div>
             
             <div class="download-item-card">
               <div class="download-content">
